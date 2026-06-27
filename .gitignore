@@ -16,3 +16,4 @@ crash.log
 # IDE
 .vscode/
 .idea/
+terraform.tfstate*
